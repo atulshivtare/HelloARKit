@@ -1,4 +1,4 @@
-# Unity ARKit [Hello World](https://john-tucker.medium.com/unity-arkit-by-example-part-1-64ec079efdc5) App:# 
+# Unity ARKit [Hello World](https://john-tucker.medium.com/unity-arkit-by-example-part-1-64ec079efdc5) App: # 
 
 # Unity-ARKit-Plugin #
 
